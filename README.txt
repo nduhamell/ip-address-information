@@ -13,5 +13,5 @@ Languages Used: HTML, PHP
 Notes: this software is free to use and distribute in any medium or 
 format including for business and profit purposes.
 
-Live Preview: hhttps://nated.xyz/software/ip-address-information/
+Live Preview: https://nated.xyz/software/ip-address-information/
 
