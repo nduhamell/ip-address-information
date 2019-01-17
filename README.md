@@ -3,7 +3,7 @@ IP Address Information
 
 A single .PHP file to display IP information such as: The IP address, Browser, Referrer, Location, ISP, 
 City, State, and Country. I enjoy making software so much! Please, if you see any issues make them 
-known! If you especially love my software you can donate at: https://nated.xyz/donate/
+known! If you especially love my software you can donate at: https://github.nated.xyz/donate/
 
 Features
 ===============
@@ -14,7 +14,7 @@ Features
 
 Preview
 ========
-https://nated.xyz/software/ip-address-information/
+https://github.nated.xyz/demo/ip-address-information/
 
 License
 ==========
