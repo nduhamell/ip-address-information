@@ -18,7 +18,7 @@ Features
 
 Preview
 ========
-https://github.nated.xyz/demo/ip-address-information/
+https://files.nateduhamell.com/test/ip-address-information-master/
 
 License
 ==========
